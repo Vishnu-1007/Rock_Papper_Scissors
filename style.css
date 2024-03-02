@@ -1,0 +1,58 @@
+
+.space{
+    display: inline-block;
+    margin-left: 480px;
+    border-radius: 10%;
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    text-align: center;
+    
+}
+.space1{
+    display: inline-block;
+    border-radius: 10%;
+    background-color: #CCCC00;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+}
+.sapce2{
+    display: inline-block;
+    border-radius: 10%;
+    background-color: #CCCCFF;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    
+}
+.start{
+    background-color: black;
+    color: bisque;
+    margin-bottom: 150px;
+    line-height: 50px;
+    text-align: center;
+
+}
+
+.output{
+
+    color: #CCCC;
+    margin-top: 50px;
+    text-align: center;
+    background-color: #330066;
+    border-radius: 30%;
+    height: 100px;
+    width: 100px;
+    margin-left: 595px;
+
+
+
+}
+.in{
+    line-height: 100px;
+}
+
+.r{
+    line-height: 100px;
+}
